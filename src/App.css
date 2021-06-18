@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+.App {
+	text-align: center;
+}
+.site-card-border-less-wrapper {
+	padding: 3px;
+	background: #ececec;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
